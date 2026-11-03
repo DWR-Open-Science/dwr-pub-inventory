@@ -6,7 +6,7 @@ The inventory is intended to provide a maintained record of DWR-related
 scientific publications for discovery, reporting, quality control, and dashboard
 use. It combines Scopus publication metadata with project-specific review
 decisions, DWR funding and authorship indicators, division assignments,
-institutional affiliation cleanup, and scientific topic classifications.
+institutional affiliation cleanup, and scientific topic classifications. A dashboard to explore the peer-reviewed publication inventory data is available here: https://data-tools.water.ca.gov/pub-inventory/. 
 
 This README is primarily for maintainers who need to refresh the inventory,
 review candidate records, resolve author and affiliation metadata, and publish
